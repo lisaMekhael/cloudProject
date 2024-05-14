@@ -12,6 +12,7 @@
   "author": "Yusufhan Sacak",
   "license": "ISC",
   "dependencies": {
+    "aws-sdk": "^2.1619.0",
     "cors": "^2.8.5",
     "dot": "^1.1.3",
     "dotenv": "^16.4.5",
